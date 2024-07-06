@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Webpage Design</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</head>
+<body>
+
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">SupeR CaRs</h2>
+            </div>
+
+            <div class="menu">
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="./about.html">ABOUT</a></li>
+                    <li><a href="./service.html">SERVICE</a></li>
+                    <li><a href="./design.html">DESIGN</a></li>
+                    <li><a href="./contact.html">CONTACT</a></li>
+                </ul>
+            </div>
+
+            <div class="search">
+                <input class="srch" type="search" name="" placeholder="Type To text">
+                <a href="#"> <button class="btn">Search</button></a>
+            </div>
+
+        </div> 
+        <div class="content">
+            <h1>SupeR CaRs <br><span>SALES&<br>SERVICE</span></h1>
+            <p class="par">"What we drive says a lot about who we are"<br>
+                "There are only two types of people that can drive cars cowards and fools."<br>
+                "My sole vice is fast automobiles."<br>
+                "Cars have always interested me."<br></p>
+
+                <button class="cn"><a href="#">JOIN US</a></button>
+
+                <div class="form">
+                    <h2>Login Here</h2>
+                    <input type="email" name="email" placeholder="Enter Your Email">
+                    <input type="Contact" name="Contact" placeholder="Enter Your mobile Number">
+                    <input type="Address" name="ADDRESS" placeholder="Enter Your Location">
+                    <button class="btnn"><a href="./login.html">Login</a></button>
+
+                    <p class="link">Don't have an account<br>
+                    <a href="#">Sign up </a> here</a></p>
+                    <p class="liw">Log in with</p>
+
+                    <div class="icons">
+                        <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-google"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
+                    </div>
+
+                </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+                                         <!---IMAGE1--->
+    <h5>SupeR CaRs:</h5>
+    <div class="container">
+        <div class="box box1">
+            <img src="./bmw.jpg"/>
+            
+        </div>
+
+        <div class="box box2">
+            <img src="./ferrari.jpg"/>
+            
+        </div>
+
+        <div class="box box3">
+            <img src="./ferrari101.jpg"/>
+            
+        </div>
+
+        <div class="box box4">
+            <img src="LAMBO.jpg"/>
+            
+        </div>
+
+        <div class="box box5">
+            <img src="supra.jpg"/>
+            
+        </div>
+
+        <div class="box box6">
+            <img src="./porche.jpg"/>
+            
+        </div>
+
+        <div class="box box7">
+            <img src="./ford mustang.jpg"/>
+           
+        </div>
+
+        <div class="box box8">
+            <img src="./RIMAC.jpg"/>
+           </div>
+
+            <div class="box box9">
+            <img src="./supra1.jpg"/>
+        </div>
+        </div>
+                         <!--image2-->
+
+        <h5>OffRoaD CaRs & MoDifiCatiOn:</h5>
+    <div class="container">
+        <div class="box box11">
+            <img src="./fortuner.webp"/>
+            
+        </div>
+
+        <div class="box box12">
+            <img src="./ford.jpg"/>
+            
+        </div>
+
+        <div class="box box13">
+            <img src="./choverlet.jpg"/>
+            
+        </div>
+
+        <div class="box box14">
+            <img src="thar.jpg"/>
+            
+        </div>
+
+        <div class="box box15">
+            <img src="swift.jpeg"/>
+            
+        </div>
+
+        <div class="box box16">
+            <img src="./gypzy.jpeg"/>
+            
+        </div>
+
+        <div class="box box17">
+            <img src="./ram.jpg"/>
+           
+        </div>
+
+        <div class="box box18">
+            <img src="./img8.jpeg"/>
+           </div>
+
+            <div class="box box19">
+            <img src="./range rover.jpeg"/>
+        </div>
+        </div>
+                <!-- <h3>Address:</h3> -->
+        <h3>Address:</h3>
+        <div class="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d15551.629770517035!2d80.2209766!3d12.9777715!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1716374749588!5m2!1sen!2sin"
+             width="100%" height="450px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+<div class="details">
+    <div class="top">
+        <h4>TOP SECTIONS</h4>
+        <p>PRICE LIST</p>
+        <p>E-BOOK</p>
+        <p>DEALERS</p>
+        <p>EXCHANGE</p>
+    </div>
+
+    <div class="quick">
+        <h4>QUICK LINKS</h4>
+        <p>ABOUT US</p>
+        <p>FEEDBACK</p>
+        <p>QUERIES</p>
+        
+    </div>
+    <div class="FOLLOW">
+        <h4>FOLLOW</h4>
+        <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+        <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+        <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+        <a href="#"><ion-icon name="logo-google"></ion-icon></a>
+        <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
+       
+    </div>
+</div>
+        
+
+   
+</body>
+</html>
